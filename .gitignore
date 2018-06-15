@@ -1,0 +1,20 @@
+target
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.properties
+
+#Idea
+**/.idea/*
+*.iws
+*.iml
+*.ipr
+
+
+#config.properties
+config.properties
