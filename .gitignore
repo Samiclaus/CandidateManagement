@@ -15,6 +15,3 @@ target
 *.iml
 *.ipr
 
-
-#config.properties
-config.properties
