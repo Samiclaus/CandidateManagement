@@ -1,5 +1,5 @@
 ## Running the server
-Run the maven command
+Run the maven command:
 ```sh
 mvn spring-boot:run
 ```
